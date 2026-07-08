@@ -24,3 +24,8 @@ So, I have set up all the components but not yet created a loop. Why'd it take m
 <img width="552" height="332" alt="Screenshot 2026-07-08 205611" src="https://github.com/user-attachments/assets/6a9f6f82-18dd-48d4-8bdd-b3d51d373a33" />
 <img width="507" height="320" alt="Screenshot 2026-07-08 205624" src="https://github.com/user-attachments/assets/7f65de2f-e660-43b1-a098-c836a4344222" />
 From here, I am going to get a rough code into the loop, but i won't be able to test it until I am able to build the code.
+
+Devlog #4: ~ 45 minutes
+Coding is very draining, hence why I am writing more devlogs. I've managed to add what I think is the coreect code for the alarm to display numbers and when it reaches 07:00, starts buzzing and asks a question. 
+<img width="361" height="320" alt="image" src="https://github.com/user-attachments/assets/87c77426-030d-49e7-890a-0d0e5d51ff2f" />
+Looking at the code again, I have realised that I need to store the random numbers, otherwise I won't be able to have a user input. Lucky Me! (That was sarcasm)
