@@ -42,3 +42,11 @@ Devlog #6 ~ 30 minutes
 So, I have been through the debugging process, and surprisingly I only picked up a few errors (other than a host of nonsensical compiling errors). 
 See the full code in the github repo.
 Time to submit! Next time you hear from me, I will be building the clock!
+
+Devlog #7 ~ 10 minutes
+I may have spoken too soon, there are a couple things I need to do:
+- Add some way of securing the pcb in the case
+- Flesh out the code,in terms of the keyboard
+I have already completed the first one, by extending a ring along the inside of the lid which will support the pcb.
+<img width="365" height="229" alt="image" src="https://github.com/user-attachments/assets/edb75939-2e78-456a-8e00-6a216fefb5ab" />
+<img width="233" height="154" alt="image" src="https://github.com/user-attachments/assets/f61f004e-1b67-48e3-9b8f-bc6505be76f7" />
